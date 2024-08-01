@@ -1,0 +1,1 @@
+This file displays the fine tuning process using hugging face model distilgpt2. An environment needs to be created wherein required libraries must be installed before the connection. For using more powerfull models, a system with higher GPU system is required or one can use CUDA for the same. 
